@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Beer and Brewery"
+      href: Beer_and_Brewery_Analysis.html
